@@ -371,3 +371,4 @@
 <hr><center>nginx/1.25.3</center>
 </body>
 </html>
+{"error":"{\"Error_GUID\":\"6642207989668993125\",\"Error\":\"failed getting responses from providers ErrMsg: No pairings available. {GUID:6642207989668993125,endpoint:NEARjsonrpc}: No pairings available.\"}"}
