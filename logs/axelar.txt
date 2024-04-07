@@ -700,3 +700,4 @@
 {"error":"{\"Error_GUID\":\"447528572771341017\",\"Error\":\"rest api not supported /gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08\"}"}
 {"error":"{\"Error_GUID\":\"7128211380166130731\",\"Error\":\"rest api not supported /gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08\"}"}
 {"error":"{\"Error_GUID\":\"1359891163684161919\",\"Error\":\"rest api not supported /gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08\"}"}
+{"error":"{\"Error_GUID\":\"10700610013000433044\",\"Error\":\"rest api not supported /gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08\"}"}
