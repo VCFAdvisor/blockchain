@@ -1527,3 +1527,4 @@
 {"error":"{\"Error_GUID\":\"3283639291799296231\",\"Error\":\"rest api not supported /gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08\"}"}
 {"error":"{\"Error_GUID\":\"12746433146643004283\",\"Error\":\"rest api not supported /gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08\"}"}
 {"error":"{\"Error_GUID\":\"9409550125457629336\",\"Error\":\"rest api not supported /gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08\"}"}
+{"error":"{\"Error_GUID\":\"11753729795807651273\",\"Error\":\"rest api not supported /gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08\"}"}
