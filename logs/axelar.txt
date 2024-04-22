@@ -1620,3 +1620,4 @@
 {"error":"{\"Error_GUID\":\"10435677619670496835\",\"Error\":\"rest api not supported ErrMsg: api not supported {name:/gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08,connectionType:POST}: api not supported\"}"}
 {"error":"{\"Error_GUID\":\"6060271405939712251\",\"Error\":\"rest api not supported ErrMsg: api not supported {name:/gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08,connectionType:POST}: api not supported\"}"}
 {"error":"{\"Error_GUID\":\"7356695089658710300\",\"Error\":\"rest api not supported ErrMsg: api not supported {name:/gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08,connectionType:POST}: api not supported\"}"}
+{"error":"{\"Error_GUID\":\"3897955334975246837\",\"Error\":\"rest api not supported ErrMsg: api not supported {name:/gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08,connectionType:POST}: api not supported\"}"}
