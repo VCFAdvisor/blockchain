@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RPC_URL="https://starknet-mainnet.g.alchemy.com/v2/PuXqYTgtHTA0m3h1VYsQtF9Jncfas9tT"
+RPC_URL="https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/acaa530d9c6d58cbaabab1701cb93e7e"
 
 OUTPUT_DIR="logs"
 
