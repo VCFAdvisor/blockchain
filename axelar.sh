@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RPC_URL="https://g.w.lavanet.xyz:443/gateway/axelar/rest/cf2e82b8b7db9bea71a07338f4962d08"
+RPC_URL="https://g.w.lavanet.xyz:443/gateway/axelar/rest/acaa530d9c6d58cbaabab1701cb93e7e"
 
 OUTPUT_DIR="logs"
 
