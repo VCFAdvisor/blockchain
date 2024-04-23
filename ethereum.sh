@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RPC_URL="https://eth-mainnet.g.alchemy.com/v2/L-RRw-TEhwG0sGKYBuGSuMTIy6syYrGm"
+RPC_URL="https://g.w.lavanet.xyz:443/gateway/eth/rpc-http/acaa530d9c6d58cbaabab1701cb93e7e"
 
 OUTPUT_DIR="logs"
 
